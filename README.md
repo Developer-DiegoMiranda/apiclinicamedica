@@ -53,7 +53,7 @@ A aplicação disponibiliza endpoints REST para as seguintes operações, testá
 A organização do projeto segue as boas práticas do Spring Boot, com as seguintes pastas e pacotes principais:
 
 ```
-src/main/java/com/seuprojeto/clinicamedica
+src/main/java/com/med.voll.api/clinicamedica
 |
 ├── controller
 |   ├── MedicoController.java
