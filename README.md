@@ -1,6 +1,6 @@
 # Projeto: Clínica Médica
 
-Este projeto é uma aplicação desenvolvida em **Java** utilizando o framework **Spring Boot** e **Maven** para gerenciar dependências. O banco de dados utilizado foi o **MySQL**. A aplicação permite gerenciar médicos e pacientes, incluindo funcionalidades como cadastro, atualização, exclusão/inativação, e listagem.
+Este projeto é uma aplicação desenvolvida em **Java** utilizando o framework **Spring Boot** e **Maven** para gerenciar dependências. A IDEA utilizada foi o **IntelliJ** excelente para trabalhar com JAVA e o banco de dados utilizado foi o **MySQL**. A aplicação permite gerenciar médicos e pacientes, incluindo funcionalidades como cadastro, atualização, exclusão/inativação, e listagem.
 
 ## Funcionalidades
 
